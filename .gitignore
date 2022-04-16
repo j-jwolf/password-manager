@@ -6,3 +6,5 @@ menu/*.py
 classes/*.py
 ui/*.py
 test/*.*
+classes/*.class
+ui/*.class
