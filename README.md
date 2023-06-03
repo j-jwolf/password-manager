@@ -2,7 +2,7 @@
 
 ## By John Wolf [<a href="mailto: jjwolf0330@tutanota.com">jjwolf0330@tutanota.com</a>]
 
-### This is a lightweight Java password manager that allows will update passwords every 2 months
+### This is a lightweight Java password manager that will update passwords every 2 months
 * This currently is a CLI program, the GUI is under development
 * Being a Java program, this program requires Java to be installed (at least version 7)
 
